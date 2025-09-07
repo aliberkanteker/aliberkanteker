@@ -5,6 +5,8 @@ Gömülü sistemler, telemetri ve uydu teknolojileri üzerine çalışmalar yür
 
 🚀 KAYSat Model Uydu Takımı’nda 3 yılı aşkın süredir takım kaptanı olarak görev alıyorum. Bu süreçte:
 
+* Sistem Mühendisliği,
+
 * Proje planlama ve teknik süreçlerin yönetimini,
 
 * Ekip koordinasyonu ve görev dağılımını,
@@ -23,7 +25,7 @@ Gömülü sistemler, telemetri ve uydu teknolojileri üzerine çalışmalar yür
 
 * **Yazılım ve Kodlama:** Python, C++, Gömülü Sistemler, Flask, Electron 
 * **Donanım ve Tasarım:** SolidWorks, Tinkercad, Elektrik-Elektronik, Robotik Kodlama
-* **Uzmanlık:** Sistem entegrasyonu, telemetri altyapıları, uydu mekanik & elektronik tasarım
+* **Uzmanlık:** Sistem Mühendisliği, Sistem entegrasyonu, telemetri altyapıları, uydu mekanik & elektronik tasarım
   
 
 ## Bana Ulaşın
