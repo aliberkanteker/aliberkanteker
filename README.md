@@ -9,13 +9,13 @@ Gömülü sistemler, telemetri ve uydu teknolojileri üzerine çalışmalar yür
 
 * Ekip koordinasyonu ve görev dağılımını,
 
-* Uydu modelleme, entegrasyon ve tasarım süreçlerini üstlendim.
+* İniş Sistemleri, Uydu modelleme, Entegrasyon ve tasarım süreçlerini üstlendim.
 
 Çalışmalarımda özellikle uydu teknolojileri, gömülü sistem tasarımı ve telemetri altyapıları konularına odaklanıyorum.
 
 ## Projelerim
 
-* **NOCTUS-06:** Tek başıma geliştirdiğim fonksiyonel küp uydu ve yer istasyonu platformu projesidir.Detaylar için [NOCTUS-06 deposunu ziyaret edin](https://github.com/aliberkanteker/NOCTUS-06)
+* **NOCTUS-06:** Tek başıma geliştirdiğim  "Yer tabanlı fonksiyonel küp uydu ve yer istasyonu platformu" projesidir.Detaylar için [NOCTUS-06 deposunu ziyaret edin](https://github.com/aliberkanteker/NOCTUS-06)
 * **KAYSAT:** TEKNOFEST 2023 Model Uydu Yarışması'nda takım lideri ve elektrik alt sistem tasarımcısı olarak görev aldığım projedir.
 * **TİCOSAT:** TEKNOFEST 2025 Model Uydu Yarışması'nda üzerinde çalıştığımız projemiz. İniş kontrol,Tasarım & Modelleme ve haberleşme alt sistemlerinin tasarımını üstleniyorum.
  
@@ -23,6 +23,8 @@ Gömülü sistemler, telemetri ve uydu teknolojileri üzerine çalışmalar yür
 
 * **Yazılım ve Kodlama:** Python, C++, Gömülü Sistemler, Flask, Electron 
 * **Donanım ve Tasarım:** SolidWorks, Tinkercad, Elektrik-Elektronik, Robotik Kodlama
+* **Uzmanlık:** Sistem entegrasyonu, telemetri altyapıları, uydu mekanik & elektronik tasarım
+  
 
 ## Bana Ulaşın
 
