@@ -1,10 +1,17 @@
 # Merhaba, ben Ali Berkant Eker 👋
 
-Erciyes Üniversitesi Astronomi ve Uzay Bilimleri alanında yüksek lisans öğrencisiyim. Gömülü sistemler, telemetri ve uydu teknolojileri konularında uzmanlaşıyorum.
+Erciyes Üniversitesi’nde Astronomi ve Uzay Bilimleri alanında yüksek lisans öğrencisiyim.
+Gömülü sistemler, telemetri ve uydu teknolojileri üzerine çalışmalar yürütüyor, bu alanlarda çeşitli projeler geliştiriyorum.
 
-3 yıldır KAYSAT Model Uydu Takımı'nın kaptanlığını yürütüyorum. Takım lideri olarak proje planlama, ekip koordinasyonu ve teknik süreç yönetiminde aktif rol alıyorum.
+🚀 KAYSAT Model Uydu Takımı’nda 3 yılı aşkın süredir takım kaptanı olarak görev alıyorum. Bu süreçte:
 
-Ayrıca, uydu modellemesi, entegrasyonu ve tasarım süreçlerinin tamamını kendim üstleniyorum.
+* Proje planlama ve teknik süreçlerin yönetimini,
+
+* Ekip koordinasyonu ve görev dağılımını,
+
+* Uydu modelleme, entegrasyon ve tasarım süreçlerini üstlendim.
+
+Çalışmalarımda özellikle uydu teknolojileri, gömülü sistem tasarımı ve telemetri altyapıları konularına odaklanıyorum.
 
 ## Projelerim
 
