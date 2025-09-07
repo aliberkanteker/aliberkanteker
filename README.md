@@ -3,7 +3,7 @@
 Erciyes Üniversitesi’nde Astronomi ve Uzay Bilimleri alanında yüksek lisans öğrencisiyim.
 Gömülü sistemler, telemetri ve uydu teknolojileri üzerine çalışmalar yürütüyor, bu alanlarda çeşitli projeler geliştiriyorum.
 
-🚀 KAYSAT Model Uydu Takımı’nda 3 yılı aşkın süredir takım kaptanı olarak görev alıyorum. Bu süreçte:
+🚀 KAYSat Model Uydu Takımı’nda 3 yılı aşkın süredir takım kaptanı olarak görev alıyorum. Bu süreçte:
 
 * Proje planlama ve teknik süreçlerin yönetimini,
 
@@ -16,7 +16,7 @@ Gömülü sistemler, telemetri ve uydu teknolojileri üzerine çalışmalar yür
 ## Projelerim
 
 * **NOCTUS-06:** Tek başıma geliştirdiğim  "Yer tabanlı fonksiyonel küp uydu ve yer istasyonu platformu" projesidir.Detaylar için [NOCTUS-06 deposunu ziyaret edin](https://github.com/aliberkanteker/NOCTUS-06)
-* **KAYSat:** TEKNOFEST 2023 Model Uydu Yarışması'nda takım lideri ve elektrik alt sistem tasarımcısı olarak görev aldığım projedir.
+* **KAYSAT Model Uydu:** TEKNOFEST 2023 Model Uydu Yarışması'nda takım lideri ve elektrik alt sistem tasarımcısı olarak görev aldığım projedir.
 * **TICOSAT:** TEKNOFEST 2025 Model Uydu Yarışması'nda üzerinde çalıştığımız projemiz. İniş kontrol,Tasarım & Modelleme ve haberleşme alt sistemlerinin tasarımını üstleniyorum.
  
 ## Becerilerim
