@@ -16,8 +16,8 @@ Gömülü sistemler, telemetri ve uydu teknolojileri üzerine çalışmalar yür
 ## Projelerim
 
 * **NOCTUS-06:** Tek başıma geliştirdiğim  "Yer tabanlı fonksiyonel küp uydu ve yer istasyonu platformu" projesidir.Detaylar için [NOCTUS-06 deposunu ziyaret edin](https://github.com/aliberkanteker/NOCTUS-06)
-* **KAYSAT:** TEKNOFEST 2023 Model Uydu Yarışması'nda takım lideri ve elektrik alt sistem tasarımcısı olarak görev aldığım projedir.
-* **TİCOSAT:** TEKNOFEST 2025 Model Uydu Yarışması'nda üzerinde çalıştığımız projemiz. İniş kontrol,Tasarım & Modelleme ve haberleşme alt sistemlerinin tasarımını üstleniyorum.
+* **KAYSat:** TEKNOFEST 2023 Model Uydu Yarışması'nda takım lideri ve elektrik alt sistem tasarımcısı olarak görev aldığım projedir.
+* **TICOSAT:** TEKNOFEST 2025 Model Uydu Yarışması'nda üzerinde çalıştığımız projemiz. İniş kontrol,Tasarım & Modelleme ve haberleşme alt sistemlerinin tasarımını üstleniyorum.
  
 ## Becerilerim
 
