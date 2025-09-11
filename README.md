@@ -15,7 +15,7 @@ In my work, I specifically focus on satellite technologies, embedded system desi
 
 ## My Projects
 
-* **NOCTUS-06:** This is a "Ground-based functional CubeSat and ground station platform" project that I developed on my own. 
+* **NOCTUS-06:** This is a "Ground-based functional CubeSat and ground station platform" project that I developed on my own. For details, visit the [https://aliberkanteker.github.io/NOCTUS-06/]
 * **KAYSAT Model Satellite:** This is a project where I served as the team leader and electrical subsystem designer in the TEKNOFEST 2023 Model Satellite Competition. For details, [visit the Atmospheric_sensor_codes repository.] (https://github.com/aliberkanteker/Atmospheric_sensor_codes)
 * **TICOSAT:** This is our ongoing project for the TEKNOFEST 2025 Model Satellite Competition. I am responsible for the design of the landing control, design & modeling, and communication subsystems.
 
