@@ -21,7 +21,11 @@ I have also served as Team Captain of the KAYSAT Model Satellite Team for over t
 ## Technical Skills
 
 **Programming Languages**<br>
-Python, C, C++, Flask, Electron<br>
+Python
+C
+C++
+Flask
+Electron<br>
 
 **Design and Tools**<br>
 SolidWorks
