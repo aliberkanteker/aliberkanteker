@@ -18,16 +18,15 @@ I have also served as Team Captain of the KAYSAT Model Satellite Team for over t
 
 ---
 
-## Teknik Beceriler
+## Technical Skills
 
-**Programlama Dilleri**<br>
+**Programming Languages**<br>
 Python, C, C++, Flask, Electron<br>
 
-**Tasarım ve Araçlar**<br>
+**Design and Tools**<br>
 SolidWorks, Tinkercad<br>
-
-**Teknik Alanlar**<br>
-Gömülü Sistemler, Sistem Mühendisliği, Sistem Entegrasyonu, Telemetri Altyapıları, Uydu Mekanik ve Elektronik Tasarımı
+**Technical Areas**<br>
+Embedded Systems, Systems Engineering, System Integration, Telemetry Infrastructures, Satellite Mechanical and Electronic Design
 
 ---
 
