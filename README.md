@@ -24,9 +24,16 @@ I have also served as Team Captain of the KAYSAT Model Satellite Team for over t
 Python, C, C++, Flask, Electron<br>
 
 **Design and Tools**<br>
-SolidWorks, Tinkercad<br>
+SolidWorks
+KiCadk
+Tinkercad<br>
+
 **Technical Areas**<br>
-Embedded Systems, Systems Engineering, System Integration, Telemetry Infrastructures, Satellite Mechanical and Electronic Design
+Embedded Systems
+Systems Engineering
+System Integration
+Telemetry Infrastructures
+Satellite Mechanical and Electronic Design
 
 ---
 
