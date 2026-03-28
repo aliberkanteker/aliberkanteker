@@ -21,23 +21,23 @@ I have also served as Team Captain of the KAYSAT Model Satellite Team for over t
 ## Technical Skills
 
 **Programming Languages**<br>
-Python
-C
-C++
-Flask
-Electron<br>
+*Python
+*C
+*C++
+*Flask
+*Electron<br>
 
 **Design and Tools**<br>
-SolidWorks
-KiCad
-Tinkercad<br>
+*SolidWorks
+*KiCad
+*Tinkercad<br>
 
 **Technical Areas**<br>
-Embedded Systems
-Systems Engineering
-System Integration
-Telemetry Infrastructures
-Satellite Mechanical and Electronic Design
+*Embedded Systems
+*Systems Engineering
+*System Integration
+*Telemetry Infrastructures
+*Satellite Mechanical and Electronic Design
 
 ---
 
