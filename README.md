@@ -28,6 +28,7 @@ SolidWorks, Tinkercad
 
 **Technical Areas**  
 Embedded Systems, Systems Engineering, System Integration, Telemetry Infrastructures, Satellite Mechanical and Electronic Design
+
 ---
 
 ## Contact Me
