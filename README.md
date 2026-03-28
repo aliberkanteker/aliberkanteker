@@ -1,42 +1,36 @@
-# Ali Berkant Eker
+# Hello, I'm Ali Berkant Eker 👋
 
-**M.Sc. Student in Astronomy and Space Sciences | CubeSat and Space Systems**
+I am a master's student in Astronomy and Space Sciences at Erciyes University. I conduct research on embedded systems, telemetry, and satellite technologies, and I develop various projects in these fields.
 
-## About Me
+I have been serving as the team captain of the KAYSat Model Satellite Team for over 3 years. During this period:
 
-I am a graduate student in Astronomy and Space Sciences at Erciyes University. My work focuses on CubeSat technologies, embedded systems, telemetry, and satellite subsystem development. Through academic and independent projects, I have gained hands-on experience in systems engineering, subsystem design, integration, and ground station development.
+* I took on System Engineering.
+* I managed project planning and technical processes.
+* I handled team coordination and task distribution.
+* I was in charge of Landing Systems, Satellite modeling, Integration, and design processes.
 
-I have also served as Team Captain of the KAYSAT Model Satellite Team for over three years, contributing to project coordination, technical planning, and subsystem-level responsibilities.
+In my work, I specifically focus on satellite technologies, embedded system design, and telemetry infrastructures.
 
-## Selected Projects
+---
 
-### NOCTUS-06
-An independently developed ground-based functional CubeSat and ground station platform. The project includes design, integration, testing, telemetry infrastructure, and documentation.
+## My Projects
 
-- Project page: [NOCTUS-06](https://aliberkanteker.github.io/NOCTUS-06/)
+* **NOCTUS-06:** An independently developed ground-based functional CubeSat and ground station platform. This project encompasses the entire design, integration, and testing cycle. For detailed information and documentation, please visit the project page: [https://aliberkanteker.github.io/NOCTUS-06/]
+* **KAYSAT Model Satellite:** Serving as both Team Leader and Electrical Subsystem Designer, I led the development of this entry for the TEKNOFEST 2023 Model Satellite Competition. For technical details, please [visit the Atmospheric_sensor_codes repository.](https://github.com/aliberkanteker/Atmospheric_sensor_codes)
+* **TICOSAT:** Our team's entry for the TEKNOFEST 2025 Model Satellite Competition. Within this project, my primary responsibilities included the design and implementation of the landing control, system design & modeling, and communication subsystems.
 
-### KAYSAT Model Satellite
-Served as Team Captain and Electrical Subsystem Lead during the TEKNOFEST 2023 Model Satellite Competition.
+---
 
-- Main responsibilities: project coordination, Electrical Power System (EPS) design, and Assembly, Integration, and Testing (AIT) processes
+## My Skills
 
-### TICOSAT
-Team entry for the TEKNOFEST 2025 Model Satellite Competition.
+* **Software and Coding:** Python, C++, Embedded Systems, Flask, Electron
+* **Hardware and Design:** SolidWorks, Tinkercad, Electrical-Electronics, Robotic Coding
+* **Expertise:** Systems Engineering, System Integration, Telemetry Infrastructures, Satellite Mechanical & Electronic Design
 
-- Main responsibilities: landing control, system design and modeling, and communication subsystem-related tasks
+---
 
-## Technical Skills
+## Contact Me
 
-**Programming**  
-Python, C, C++, Flask, Electron
-
-**Design and Tools**  
-SolidWorks, Tinkercad
-
-**Technical Areas**  
-Embedded Systems, Systems Engineering, System Integration, Telemetry Infrastructures, Satellite Mechanical and Electronic Design
-
-## Contact
-
-- LinkedIn: [linkedin.com/in/ali-berkant-eker](https://www.linkedin.com/in/ali-berkant-eker)
-- Website: [aliberkanteker.github.io](https://aliberkanteker.github.io/)
+* **LinkedIn:** [linkedin.com/in/ali-berkant-eker](https://www.linkedin.com/in/ali-berkant-eker)
+* **Website:**  https://aliberkanteker.github.io/
+* **Email:** aliberkanteker06@gmail.com
