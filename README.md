@@ -25,7 +25,7 @@ Python, C, C++, Flask, Electron<br>
 
 **Design and Tools**<br>
 SolidWorks
-KiCadk
+KiCad
 Tinkercad<br>
 
 **Technical Areas**<br>
